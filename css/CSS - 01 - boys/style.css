@@ -1,0 +1,56 @@
+/* universal selector - (global or common settings)*/
+
+* {
+    color:rgb(95, 15, 15);
+    background-color: rgb(224, 159, 159);
+} 
+
+
+/* element selector - apply css to all elements specified */
+
+/* h1 {
+    color : rgb(255, 12, 12);
+    background-color: rgb(68, 139, 139);
+} 
+
+h1 {
+    color: blue;
+    background-color: yellow;
+} */
+
+
+
+
+/* h1{
+    color: rgb(0, 0, 81);
+} 
+
+h3 {
+    color: rgb(5, 130, 172);
+    font-family:monospace;
+}  */
+
+
+/* class selector - apply css to all classes specified  */
+
+
+
+/* .heading-3 {
+    color: darkgoldenrod;
+    font-size: 40px;
+}  */
+
+
+/* id selector */
+
+
+/* #heading-1{
+    color: blueviolet;
+} */
+
+
+/* group selector */
+
+h1,h3,.para-1 {  /* */
+    color: blue;
+} 

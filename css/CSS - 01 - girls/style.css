@@ -1,0 +1,41 @@
+* {
+  /* universal selector - apply styles to all elements */
+  color: purple;
+  background-color: rgb(255, 203, 255);
+}
+
+#heading-1 {
+  color:purple
+}
+
+p {
+  color: purple;
+}
+
+/* p {  element selector - apply styles to all <p> elements 
+  color: red;
+  background-color: lightblue;
+} */
+
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(23, 0, 22);
+}
+
+/* Class selector - apply styles to all elements with specific class*/
+
+.heading-3 {
+  color: rgb(228, 97, 97);
+}
+
+.para-1 {
+  color: rgb(0, 45, 84);
+  font-family: sans-serif;
+}
+
+/* .heading-1 {
+  color: purple;
+} */
+
+/* id selector - apply styles to the element with a specific id */
+
