@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* 
+h1 { 
+    background-color: brown;
+    color: rgb(255, 255, 255);
+    border:5px solid rgb(234, 255, 0);
+    padding: 10px;
+    margin: 10px;
+} */
+
+
+
+/* .header-1 { 
+    background-color: rgb(221, 166, 166);
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 350px;
+    margin : 10px;
+    /* box-sizing: border-box; */
+/* } */ 
+
+
+li{
+    color: crimson;
+}
+
+.header-2 { 
+    background-color: rgb(221, 166, 166);
+    padding: 0.3rem;
+    border: 2px solid rgb(0, 0, 0);
+    width: 100vw;
+    height: 101vh;
+    /* box-sizing: border-box; */
+}
+
+ul {
+    background-color: yellow;
+    width: 70%;
+    font-size: 1em;
+}
+
+body {
+    width: 400px;
+}
+
+

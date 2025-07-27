@@ -12,6 +12,10 @@ p {
   color: purple;
 }
 
+h3{
+  color:purple;
+}
+
 /* p {  element selector - apply styles to all <p> elements 
   color: red;
   background-color: lightblue;
@@ -38,4 +42,11 @@ h3 {
 } */
 
 /* id selector - apply styles to the element with a specific id */
+
+/* group selector */
+
+h3,p, #heading-3, .heading-1 {
+  color:purple;
+}
+
 
