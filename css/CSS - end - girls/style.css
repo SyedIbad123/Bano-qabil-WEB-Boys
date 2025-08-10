@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+  padding: 0;
+  margin: 0;
+}
+
+/* nav {
+  height: 100px;
+  width: 90vw;
+}
+
+ul {
+  color: bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  gap: 80px;
+  font-size: 3rem;
+}
+
+@media (max-width: 480px) {
+  ul {
+    flex-direction: column;
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  * {
+    background-color: beige;
+    color: black;
+  }
+
+  ul {
+    flex-direction: column;
+    font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  ul {
+    flex-direction: row;
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  ul {
+    flex-direction: row;
+    font-size: 1rem;
+  }
+} */
+
+/* .box1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(145, 0, 0);
+} */
+
+/* .box1:hover {
+  animation: colorChanging 2s infinite ease-in;
+} */
+/* 
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(138, 247, 21);
+  margin-top: -80px;
+  z-index: -999;
+} */
+
+/* @keyframes colorChanging {
+  0% {
+    background-color: rgb(145, 0, 0);
+    width: 100px;
+    height: 100px;
+  }
+  50% {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+  }
+
+  100% {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+  }
+}
+
+/* .btn1 {
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  background-color: transparent;
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.bg-gradient {
+  width: 100px;
+  height: 33px;
+  background-color: aquamarine;
+  position: absolute;
+  top: 4%;
+  border: none;
+  border-radius: 50px;
+  left: 1.8%;
+  animation: btn 1s ease;
+}
+
+@keyframes btn {
+  0% {
+    width: 0;
+  }
+} */
+/* 
+.btn1 {
+  padding: 8px 20px;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  background-color: transparent;
+  color: aliceblue;
+  cursor: pointer;
+  position: relative;
+  border: 2px solid white;
+  z-index: 1;
+}
+
+.bg-gradient {
+  width: 0;
+  height: 33px;
+  background-color: aquamarine;
+  position: absolute;
+  top: 4%;
+  left: 1.8%;
+  border: none;
+  border-radius: 50px;
+  transition: width 1s ease;
+  z-index: 0;
+}
+
+.btn1:hover + .bg-gradient {
+  width: 103px;
+} */
+
+.accordion-style {
+  background-color: black;
+  color: white;
+}
